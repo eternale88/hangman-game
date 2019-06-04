@@ -10,8 +10,7 @@ A Hangman game I  built with HTML5, CSS3, and Vanilla JavaScript
 
 ## Motivation
 
-To learn more about and grow my skills in frontend development and DOM manipulation. As well as provide
-a fun way to learn more about RGB colors.
+To learn more about and grow my skills in frontend development and DOM manipulation. 
 
 ## Installation
 
