@@ -1,8 +1,7 @@
 
 Hosted here on Netlify
-[https://kind-mcnulty-f43ea9.netlify.com/]
-
-
+Static deploy [https://kind-mcnulty-f43ea9.netlify.com/]
+Webpack (with Babel) production build [https://goofy-shockley-3b4201.netlify.com/]
 # Hangman
 ## Synopsis
 
