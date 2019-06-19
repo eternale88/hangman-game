@@ -66,3 +66,5 @@
         }
         
     }
+
+    export {HangmanClass as default}

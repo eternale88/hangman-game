@@ -1,5 +1,5 @@
 //Now with fetch + async await added, finally the end is near!
-const getPuzzle = async (wordCount) => {
+export const getPuzzle = async (wordCount) => {
   const response = await fetch(
     `https://puzzle.mead.io/puzzle?wordCount=${wordCount}`
   );
