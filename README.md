@@ -5,6 +5,7 @@ Webpack (with Babel) production build [https://goofy-shockley-3b4201.netlify.com
 ## Synopsis
 
 A Hangman game I  built with HTML5, CSS3, and Vanilla object oriented JavaScript, and a production build of Webpack with Babel
+*webpack configuration is on the second branch
 
 ## Motivation
 
